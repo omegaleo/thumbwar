@@ -1,0 +1,9 @@
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\bin\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.deps.json
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\bin\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.dll
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\bin\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.pdb
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\obj\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.csprojAssemblyReference.cache
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\obj\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.AssemblyInfoInputs.cache
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\obj\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.AssemblyInfo.cs
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\obj\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.csproj.CoreCompileInputs.cache
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\obj\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.dll
+C:\Users\OmegaLeo\Desktop\GameProjects\Games\GameJams\WeeklyJam184-Submission\API\ThumberWar.Leaderboard.Models\obj\Debug\netstandard2.0\ThumberWar.Leaderboard.Models.pdb
